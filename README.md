@@ -24,6 +24,8 @@ N/A
 
 To use this Homework 1, you can click on buttons in the navigation bar to take you to sections of the webpage. For suggestions on what to study first, feel free to click on any of the three titles in the top right-hand side of the webpage. It should take you to the section that appropriately describes the title clicked. There you will also see a sidebar with tangentially related information.
 
+**NOTE**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+
 ## Credits
 
 N/A

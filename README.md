@@ -26,6 +26,11 @@ To use this Homework 1, you can click on buttons in the navigation bar to take y
 
 **NOTE**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually we'll learn how to make elements responsive so that our web application is optimized for any screen size.
 
+**SCREENSHOTS**
+![Screenshot of NavBar](/assets/images/ScreenshotNavBar.PNG)
+![Screenshot of Content](/assets/images/ScreenshotContent2.PNG)
+![Screenshot of Footer](/assets/images/ScreenshotFooter.PNG)
+
 ## Credits
 
 N/A

@@ -5,8 +5,8 @@
 This Homework 1 was created for boot camp students who were going through Module 01. It contains a webpage with a relatively functional navigation bar.
 
 My motivation came from my desire to learn HTML and CSS in the efforts to build a webpage.
-I built this project to show that I have learned and absorbed the information given to me through the Module 01 requirement from the UCLA coding bootcamp.
-It solves my lack of education in HTML and basic CSS, as well as helps me to achieve a foothold in building more complex and functional webpages.
+I refactored this webpage to show that I have learned and absorbed the information given to me through the Module 01 requirement from the UCLA coding bootcamp.
+This helped me to achieve a foothold in building more complex and functional webpages in my future projects.
 I learned how to refactor a webpage to simplify the elements and prove my understanding of HTML and basic CSS.
 
 ## Table of Contents 
